@@ -7,9 +7,11 @@ void printMyName () {
 }
 
 void printMyIndex () {
-	//TODO
+	cout<<"173059";
 }
 
 int main () {
-	printMyName ();
+
+	printMyIndex ();
+
 }
