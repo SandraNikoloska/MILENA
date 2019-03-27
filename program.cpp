@@ -13,5 +13,6 @@ void printMyIndex () {
 int main () {
 
 	printMyIndex ();
+printMyName ();
 
 }
